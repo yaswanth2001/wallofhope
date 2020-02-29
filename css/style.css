@@ -1,0 +1,10 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#center{
+	text-align: center;
+}
+#page{
+	margin: 20px;
+}
